@@ -20829,7 +20829,7 @@ function UA({ isOpen: a, onClose: l }) {
                   b.jsx(Sn.button, {
                     whileHover: { scale: 1.02 },
                     whileTap: { scale: 0.98 },
-                    onClick: () => ru("https://pay.cakto.com.br/382sn9y"),
+                    onClick: () => ru("https://www.ggcheckout.com/checkout/v2/2100uGGzvW4ILJ8zR9MG"),
                     className:
                       "w-full py-3.5 md:py-4 px-6 rounded-full font-black text-white bg-gradient-to-r from-[#FF5722] to-red-600 shadow-lg text-sm md:text-lg uppercase tracking-wider",
                     children: "SIM! Quero o Premium por R$ 23,90",
